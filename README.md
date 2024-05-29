@@ -1,5 +1,5 @@
 # Spam Detector
-![img.png](FrontEndPicsForReadME/FrontEndImage1.png)![img_1.png](FrontEndPicsForReadME/img_1.png)
+![img.png](img.png)![img_1.png](img_1.png)
 ## Project Information
 - **Components**:
     - SpamDetectorFrontEnd: React and TailWind css.
