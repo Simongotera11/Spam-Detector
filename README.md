@@ -1,7 +1,6 @@
 # Spam Detector
 ![img.png](FrontEndPicsForReadME/FrontEndImage1.png)![img_1.png](FrontEndPicsForReadME/img_1.png)
 ## Project Information
-- **Course**: CSCI 2020U: Software Systems Development and Integration
 - **Components**:
     - SpamDetectorFrontEnd: React and TailWind css.
     - SpamDetectorBackEnd: Java and SpringBoot.
