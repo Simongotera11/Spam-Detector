@@ -57,11 +57,7 @@
 - `http://localhost:8080/api/v1/spam/precision` To get the precision obtained by the model.
 ## POST Request
 -  `http://localhost:8080/api/v1/spam/precision/file` This endpoint takes a the content of a email as a string and returs the probability of the given file being Spam.
-## Group Members
-- Amandeep Singh
-- Simon Gotera Vargas
-- Josiah Jehoiakim Yap
-- Tyler Valentini
+
 
 ## Improvements
 
